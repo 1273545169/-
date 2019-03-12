@@ -8,5 +8,7 @@
 
 [堆排序](https://github.com/1273545169/Course_notes/blob/master/%E5%A0%86%E6%8E%92%E5%BA%8F.md)
 
-[桶排序+计数排序+基数排序](https://github.com/1273545169/Course_notes/blob/master/%E9%9D%9E%E6%AF%94%E8%BE%83%E6%8E%92%E5%BA%8F.md)
+[桶排序:计数排序+基数排序](https://github.com/1273545169/Course_notes/blob/master/%E9%9D%9E%E6%AF%94%E8%BE%83%E6%8E%92%E5%BA%8F.md)
+
+[桶排序应用：数组中相邻元素最大差值问题]https://github.com/1273545169/Course_notes/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9B%B8%E9%82%BB%E4%B8%A4%E6%95%B0%E6%9C%80%E5%A4%A7%E5%B7%AE%E5%80%BC.md)
 
