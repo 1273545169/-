@@ -8,3 +8,5 @@
 
 [堆排序](https://github.com/1273545169/Course_notes/blob/master/%E5%A0%86%E6%8E%92%E5%BA%8F.md)
 
+[桶排序+计数排序+基数排序](https://github.com/1273545169/Course_notes/blob/master/%E9%9D%9E%E6%AF%94%E8%BE%83%E6%8E%92%E5%BA%8F.md)
+
