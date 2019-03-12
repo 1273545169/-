@@ -7,3 +7,5 @@
 
 [快速排序](https://github.com/1273545169/Course_notes/blob/master/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
 
+[堆排序](https://github.com/1273545169/Course_notes/blob/master/%E5%A0%86%E6%8E%92%E5%BA%8F.md)
+
