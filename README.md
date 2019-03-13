@@ -13,3 +13,7 @@
 
   - [桶排序应用：数组中相邻元素最大差值问题](https://github.com/1273545169/Course_notes/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9B%B8%E9%82%BB%E4%B8%A4%E6%95%B0%E6%9C%80%E5%A4%A7%E5%B7%AE%E5%80%BC.md)
 
+### 队列+栈
+
+- [数组实现固定大小的队列和栈](https://github.com/1273545169/Course_notes/blob/master/%E6%95%B0%E7%BB%84%E5%AE%9E%E7%8E%B0%E5%9B%BA%E5%AE%9A%E5%A4%A7%E5%B0%8F%E7%9A%84%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88.md)
+- [返回栈中最小元素](https://github.com/1273545169/Course_notes/blob/master/%E8%BF%94%E5%9B%9E%E6%A0%88%E4%B8%AD%E6%9C%80%E5%B0%8F%E5%85%83%E7%B4%A0.md)
