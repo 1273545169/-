@@ -1,0 +1,62 @@
+# 题目描述
+
+给定一个整型矩阵matrix， 请按照转圈的方式打印它。例如： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 打印结果为： 1， 2， 3， 4， 8， 12， 16， 15， 14， 13， 9，
+5， 6， 7， 11， 10
+
+【要求】 额外空间复杂度为O(1)。
+
+
+# 解题思路
+
+![](https://github.com/1273545169/Course_notes/blob/master/%E5%9B%BE%E7%89%87/%E6%97%8B%E8%BD%AC%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.jpg)
+
+tR, tC 左上角行列索引
+
+dR, dC 右下角行列索引
+    
+
+```python
+
+def printMatrixSpiralOrder(matrix):
+    # 左上角行列索引
+    tR, tC = 0, 0
+    # 右下角行列索引
+    dR, dC = len(matrix) - 1, len(matrix[0]) - 1
+
+    while tR <= dR and tC <= dC:
+        printEdge(matrix, tR, tC, dR, dC)
+        tR += 1
+        tC += 1
+        dR -= 1
+        dC -= 1
+
+
+def printEdge(matrix, tR, tC, dR, dC):
+    # 若只剩下内部最后一行
+    if tR == dR:
+        for i in range(tC, dC + 1):
+            print(matrix[i][tC], end=' ')
+    # 若只剩下内部一列
+    elif tC == dC:
+        for i in range(tR, dR + 1):
+            print(matrix[i][tC], end=' ')
+
+    else:
+        for i in range(tC, dC):
+            print(matrix[tR][i], end=' ')
+        for i in range(tR, dR):
+            print(matrix[i][dC], end=' ')
+        for i in range(dC, tC, -1):
+            print(matrix[dR][i], end=' ')
+        for i in range(dR, tR, -1):
+            print(matrix[i][tC], end=' ')
+
+
+# for test
+import numpy as np
+matrix = list(np.arange(1, 7).reshape((2, 3)))
+print(printMatrixSpiralOrder(matrix))
+
+
+
+```
