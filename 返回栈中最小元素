@@ -1,0 +1,45 @@
+
+### 题目描述
+
+实现一个特殊的栈， 在实现栈的基本功能的基础上， 再实现返回栈中最小元素的操作。
+【要求】
+1． pop、 push、 getMin操作的时间复杂度都是O(1)。
+2． 设计的栈类型可以使用现成的栈结构。
+
+### 解题思路
+
+建立两个栈，一个普通栈stack，另一个栈minStack的栈顶为stack中的最小元素。
+
+每次来一个新的数，都会与minStack的栈顶元素相比较，然后选择较小值压入栈中
+
+
+```python
+
+class stack:
+    def __init__(self):
+        self.stack = []
+        self.minStack = []
+
+    def pop(self):
+        if not self.stack:
+            raise ValueError('the stack is empty!')
+        self.minStack.pop()
+        return self.stack.pop()
+
+    def push(self, num):
+        self.stack.append(num)
+        self.minStack.append(min(num, self.minStack[-1] if self.minStack else num))
+        return self.stack
+
+    def getMin(self):
+        return self.minStack[-1]
+
+# for test
+a = stack()
+a.push(2)
+a.push(0)
+a.push(3)
+a.push(1)
+print(a.getMin())
+
+```
