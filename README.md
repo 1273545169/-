@@ -4,6 +4,8 @@
 - [归并排序](https://github.com/1273545169/Course_notes/blob/master/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
 
   - [小和问题](https://github.com/1273545169/Course_notes/blob/master/%E5%B0%8F%E5%92%8C%E9%97%AE%E9%A2%98.md)
+  
+  - [逆序对问题的计算和输出](https://github.com/1273545169/Course_notes/blob/master/%E9%80%86%E5%BA%8F%E5%AF%B9%E9%97%AE%E9%A2%98.md)
 
 - [快速排序](https://github.com/1273545169/Course_notes/blob/master/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
 
