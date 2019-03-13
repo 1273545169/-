@@ -25,4 +25,4 @@
 
 ### 矩阵问题
 
-- [旋转正方形矩阵](https://github.com/1273545169/Course_notes/new/master/旋转正方形矩阵.md)
+- [旋转正方形矩阵](https://github.com/1273545169/Course_notes/blob/master/%E6%97%8B%E8%BD%AC%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9F%A9%E9%98%B5.md)
