@@ -31,4 +31,4 @@
 
 - [之字形打印矩阵](https://github.com/1273545169/Course_notes/blob/master/%E4%B9%8B%E5%AD%97%E5%BD%A2%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 
-- [在行列都排好序的矩阵中找数]()
+- [在行列都排好序的矩阵中找数](https://github.com/1273545169/Course_notes/blob/master/%E5%9C%A8%E8%A1%8C%E5%88%97%E6%8E%92%E5%A5%BD%E5%BA%8F%E7%9A%84%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%89%BE%E6%95%B0.md)
