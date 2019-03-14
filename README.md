@@ -32,3 +32,13 @@
 - [之字形打印矩阵](https://github.com/1273545169/Course_notes/blob/master/%E4%B9%8B%E5%AD%97%E5%BD%A2%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 
 - [在行列都排好序的矩阵中找数](https://github.com/1273545169/Course_notes/blob/master/%E5%9C%A8%E8%A1%8C%E5%88%97%E6%8E%92%E5%A5%BD%E5%BA%8F%E7%9A%84%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%89%BE%E6%95%B0.md)
+
+### 链表问题
+
+- [反转单向或双向链表](https://github.com/1273545169/Course_notes/blob/master/%E5%8F%8D%E8%BD%AC%E5%8D%95%E5%90%91%E6%88%96%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
+
+- [打印两个有序链表的公共部分](https://github.com/1273545169/Course_notes/blob/master/%E6%89%93%E5%8D%B0%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%E7%9A%84%E5%85%AC%E5%85%B1%E9%83%A8%E5%88%86.md)
+
+- []()
+
+
