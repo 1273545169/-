@@ -28,3 +28,7 @@
 - [旋转正方形矩阵](https://github.com/1273545169/Course_notes/blob/master/%E6%97%8B%E8%BD%AC%E6%AD%A3%E6%96%B9%E5%BD%A2%E7%9F%A9%E9%98%B5.md)
 
 - [转圈打印矩阵](https://github.com/1273545169/Course_notes/blob/master/%E8%BD%AC%E5%9C%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
+
+- [之字形打印矩阵](https://github.com/1273545169/Course_notes/blob/master/%E4%B9%8B%E5%AD%97%E5%BD%A2%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
+
+- [在行列都排好序的矩阵中找数]()
