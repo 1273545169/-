@@ -49,6 +49,15 @@
 
 - [两个链表相交问题](https://github.com/1273545169/Course_notes/blob/master/%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4%E9%97%AE%E9%A2%98.md)
 
+### 二叉树问题
+
+- [二叉树的遍历](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86.md)
+
+- [二叉树的后继节点](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E7%BB%A7%E8%8A%82%E7%82%B9.md)
+
+- [二叉树的序列化与反序列化](https://github.com/1273545169/Course_notes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+
+- []()
 
 
 
