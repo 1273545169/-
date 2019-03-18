@@ -67,7 +67,9 @@
 
 - [折纸问题](https://github.com/1273545169/Course_notes/blob/master/%E6%8A%98%E7%BA%B8%E9%97%AE%E9%A2%98.md)
 
-### 
+### 字符串
+
+ - [前缀树](https://github.com/1273545169/Course_notes/blob/master/%E5%89%8D%E7%BC%80%E6%A0%91.md)
 
 
 
