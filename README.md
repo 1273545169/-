@@ -64,12 +64,17 @@
 - [完全二叉树](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 - [完全二叉树的节点个数](https://github.com/1273545169/Course_notes/blob/master/%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E6%95%B0.md)
-
+ 
 - [折纸问题](https://github.com/1273545169/Course_notes/blob/master/%E6%8A%98%E7%BA%B8%E9%97%AE%E9%A2%98.md)
 
 ### 字符串
 
  - [前缀树](https://github.com/1273545169/Course_notes/blob/master/%E5%89%8D%E7%BC%80%E6%A0%91.md)
+ 
+ 
+ ### 贪心策略
+ 
+  - []()
 
 
 
