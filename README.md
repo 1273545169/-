@@ -33,6 +33,8 @@
 
 - [在行列都排好序的矩阵中找数](https://github.com/1273545169/Course_notes/blob/master/%E5%9C%A8%E8%A1%8C%E5%88%97%E6%8E%92%E5%A5%BD%E5%BA%8F%E7%9A%84%E7%9F%A9%E9%98%B5%E4%B8%AD%E6%89%BE%E6%95%B0.md)
 
+- [一维矩阵转置](https://github.com/1273545169/Course_notes/blob/master/%E4%B8%80%E7%BB%B4%E7%9F%A9%E9%98%B5%E8%BD%AC%E7%BD%AE.md)
+
 ### 链表问题
 
 - [反转单向或双向链表](https://github.com/1273545169/Course_notes/blob/master/%E5%8F%8D%E8%BD%AC%E5%8D%95%E5%90%91%E6%88%96%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
