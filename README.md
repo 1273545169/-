@@ -81,6 +81,8 @@
   - [金条切分最小花费问题](https://github.com/1273545169/Course_notes/blob/master/%E9%87%91%E6%9D%A1%E5%88%87%E5%88%86%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9.md)
   
   - [项目收益问题](https://github.com/1273545169/Course_notes/blob/master/%E9%A1%B9%E7%9B%AE%E6%94%B6%E7%9B%8A%E9%97%AE%E9%A2%98.md)
+  
+  - [会议室安排问题](https://github.com/1273545169/Course_notes/blob/master/%E4%BC%9A%E8%AE%AE%E5%AE%A4%E5%AE%89%E6%8E%92%E9%97%AE%E9%A2%98.md)
 
 
 
