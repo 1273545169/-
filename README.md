@@ -76,7 +76,11 @@
  
  ### 贪心策略
  
-  - []()
+  - [字符串拼接](https://github.com/1273545169/Course_notes/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8B%BC%E6%8E%A5)
+  
+  - [金条切分最小花费问题](https://github.com/1273545169/Course_notes/blob/master/%E9%87%91%E6%9D%A1%E5%88%87%E5%88%86%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9.md)
+  
+  - [项目收益问题](https://github.com/1273545169/Course_notes/blob/master/%E9%A1%B9%E7%9B%AE%E6%94%B6%E7%9B%8A%E9%97%AE%E9%A2%98.md)
 
 
 
