@@ -83,6 +83,16 @@
   - [项目收益问题](https://github.com/1273545169/Course_notes/blob/master/%E9%A1%B9%E7%9B%AE%E6%94%B6%E7%9B%8A%E9%97%AE%E9%A2%98.md)
   
   - [会议室安排问题](https://github.com/1273545169/Course_notes/blob/master/%E4%BC%9A%E8%AE%AE%E5%AE%A4%E5%AE%89%E6%8E%92%E9%97%AE%E9%A2%98.md)
+  
+  ### 递归
+  
+   - [求n！的结果](https://github.com/1273545169/Course_notes/blob/master/%E6%B1%82N!%E5%BE%97%E7%BB%93%E6%9E%9C.md)
+   
+   - [汉诺塔问题](https://github.com/1273545169/Course_notes/blob/master/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98.md)
+   
+   - [字符串的组合/字符串的全部子序列](https://github.com/1273545169/offer-note/edit/master/%E5%AD%97%E7%AC%A6%E7%9A%84%E7%BB%84%E5%90%88.md)
+   
+   - [字符串的全排列](https://github.com/1273545169/offer-note/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
 
 
 
