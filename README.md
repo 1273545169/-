@@ -100,7 +100,7 @@
    
    - [路径和问题](https://github.com/1273545169/Course_notes/blob/master/%E8%B7%AF%E5%BE%84%E5%92%8C%E9%97%AE%E9%A2%98.md)
    
-   - []()
+   - [数组和问题](https://github.com/1273545169/Course_notes/blob/master/%E6%95%B0%E7%BB%84%E5%92%8C%E7%AD%89%E4%BA%8Eaim.md)
 
 
 
