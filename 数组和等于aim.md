@@ -4,6 +4,8 @@
 
 ### 思路解析
 
+##### 递归
+
 与字符的组合类似，一个位置的可以选择，也可以不选择
 ```python
 
@@ -25,3 +27,25 @@ print(Solution().isExitsHelper([2, 7, 10], 0, 0, 13))
 第一个位置选择3，第二个位置选择5，到第三个位置时累加和为5 $f(3,5)$
 
 第一二个位置都不选择，第三个位置选择5，到第三个位置累加和也为5 $f(3,5)$
+
+
+
+##### 递归改动态规划
+
+```python
+
+class Solution1:
+    def isExits(self, array, aim):
+        length = len(array)
+        dp = [[False for i in range(aim + 1)] for j in range(length + 1)]
+        dp[length][aim] = True
+
+        for i in range(length - 1, -1, -1):
+            for j in range(aim, -1, -1):
+                dp[i][j] = dp[i + 1][j]
+                if j + array[i] <= aim:
+                    dp[i][j] = dp[i][j] or dp[i + 1][j + array[i]]
+        return dp[0][0]
+
+
+```
