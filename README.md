@@ -104,10 +104,13 @@
    
    - [01背包问题](https://github.com/1273545169/Course_notes/blob/master/01%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
    
+   ### 动态规划经典问题
+   
    - [最长公共子序列](https://github.com/1273545169/Course_notes/blob/master/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
    
    - [最长公共子串](https://github.com/1273545169/Course_notes/blob/master/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E4%B8%B2.md)
 
+   - [合唱队问题](https://github.com/1273545169/Course_notes/blob/master/%E5%90%88%E5%94%B1%E9%98%9F%E9%97%AE%E9%A2%98.md)
 
 
 
