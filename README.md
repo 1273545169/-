@@ -84,6 +84,8 @@
   
   - [会议室安排问题](https://github.com/1273545169/Course_notes/blob/master/%E4%BC%9A%E8%AE%AE%E5%AE%A4%E5%AE%89%E6%8E%92%E9%97%AE%E9%A2%98.md)
   
+   - [上菜最小距离](https://github.com/1273545169/Course_notes/blob/master/%E4%B8%8A%E8%8F%9C%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BB%E9%97%AE%E9%A2%98.md)
+  
   ### 递归
   
    - [求n！的结果](https://github.com/1273545169/Course_notes/blob/master/%E6%B1%82N!%E5%BE%97%E7%BB%93%E6%9E%9C.md)
