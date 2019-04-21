@@ -49,3 +49,20 @@ class Solution1:
 
 
 ```
+
+```python
+
+class Solution:
+    def isExits(self, array, aim):
+        length = len(array)
+        dp = [[False for i in range(aim + 1)] for j in range(length + 1)]
+        dp[0][0] = True
+
+        for i in range(1, len(array) + 1):
+            for j in range(aim + 1):
+                dp[i][j] = dp[i - 1][j]
+                if j - array[i - 1] >= 0:
+                    dp[i][j] |= dp[i][j - array[i - 1]]
+        return dp[-1][-1]
+
+```
