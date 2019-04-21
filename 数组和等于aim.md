@@ -62,7 +62,8 @@ class Solution:
             for j in range(aim + 1):
                 dp[i][j] = dp[i - 1][j]
                 if j - array[i - 1] >= 0:
-                    dp[i][j] |= dp[i][j - array[i - 1]]
+                    dp[i][j] |= dp[i - 1][j - array[i - 1]]
         return dp[-1][-1]
+
 
 ```
